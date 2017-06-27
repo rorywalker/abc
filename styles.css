@@ -1,0 +1,132 @@
+
+
+body {
+	font-family:"rockwell";
+}
+
+.bkgnd1 {
+	background-color: #337ab7;
+	color: white;
+}
+
+.fontSize6 {
+	font-size: 6rem;
+	font-weight: bold;
+}
+
+.moveRight {
+	margin-left: 20%;
+}
+
+.pic {
+	margin: 2% 0% 1% 0%;
+}
+
+.fontSize2 {
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.bkgnd2 {
+	background-color: silver;
+}
+
+.fontSize3 {
+	color: #337ab7;
+	font-size: 4rem;
+	font-weight: bold;
+}
+
+.moveCenter1 {
+	margin-left: 11%;
+}
+
+.moveCenter2 {
+	margin-left: 26%;
+}
+
+.thick {
+	font-weight: bold;
+}
+
+.moveRight1 {
+	margin-left: 36%;
+}
+
+.moveRight2 {
+	margin-left: 16%;
+}
+
+.moveRight3 {
+	margin-left: 23%;
+}
+
+.moveRight4 {
+	margin-left: 15%;
+}
+
+.moveRight5 {
+	margin-left: 39%;
+}
+
+.moveRight6 {
+	margin-left: 46%;
+}
+
+.moveRight7 {
+	margin-left: 31%;
+}
+
+.moveRight8 {
+	margin-left: 37%;
+}
+
+.moveRight9 {
+	margin-left: 23%;
+}
+
+.moveRight10 {
+	margin-left: 18%;
+}
+
+.moveRight11 {
+	margin-left: 39%;
+}
+
+.moveCenter3 {
+	margin-left: 6%;
+}
+
+.moveRight12 {
+	margin-left: 49%;
+}
+
+.moveRight13 {
+	margin-left: 47%;
+}
+
+.moveRight14 {
+	margin-left: 36%;
+}
+
+.moveRight15 {
+	margin-left: 28%;
+}
+
+.moveRight16 {
+	margin-left: 44%;
+}
+
+.moveRight17 {
+	margin-left: 54%;
+}
+
+.list {
+	list-style-type: none;
+	margin-left: -8%;
+	font-weight: bold;
+}
+
+
+
+
